@@ -2,6 +2,7 @@
 - 👀 I’m interested in everything
 - 🌱 I’m currently learning vim
 - 📫 Reach me at gh.strider.arya@gmail.com
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghstrider"/>
 
 <!---
 ghstrider/ghstrider is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
